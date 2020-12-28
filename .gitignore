@@ -1,0 +1,5 @@
+build/
+dist/
+*.iml
+*.spec
+__pycache__/
